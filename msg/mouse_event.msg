@@ -1,0 +1,6 @@
+int8 right_displacement
+int8 down_displacement
+int8 wheel_up_displacement
+bool left_click
+bool right_click
+bool middle_click
